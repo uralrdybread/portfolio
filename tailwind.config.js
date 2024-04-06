@@ -6,7 +6,13 @@ export default {
         "./resources/**/*.vue",
     ],
     theme: {
-        extend: {},
+        extend: {
+            breakpoints: {
+                sm: "640px",
+                md: "768px",
+                lg: "1024px",
+            },
+        },
     },
     plugins: [],
 };
