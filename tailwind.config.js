@@ -12,6 +12,10 @@ export default {
                 md: "768px",
                 lg: "1024px",
             },
+            colors: {
+                customBlue: "#c3dafe",
+                customGray: "#6C63FF",
+            },
         },
     },
     plugins: [],
