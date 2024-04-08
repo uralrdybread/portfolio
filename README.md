@@ -1,3 +1,24 @@
+# Artist Portfolio
+
+## Goals
+
+- Create a beautiful grid layout for an artist's collection of art.
+- Implement a fixed top navbar that seamlessly stays at the top of the screen.
+- Utilize Alpine.js to incorporate ease-in and ease-out transition effects when hovering over pictures.
+- Develop a fully responsive website that looks stunning on both full-screen and mobile devices.
+- Design a clear selection hover effect that enhances user navigation.
+- Implement a sliding side navbar that activates only when the screen reaches a certain size ratio.
+- Add animation to the hamburger icon for smooth transition of the side navbar during deployment.
+
+
+![mobile2](https://github.com/uralrdybread/portfolio/assets/48900828/cad1a6a5-abd7-402f-b246-294cc63f0cc2)
+![mobile1](https://github.com/uralrdybread/portfolio/assets/48900828/252f8781-7008-4c03-b0ba-25897aaeb338)
+![main3](https://github.com/uralrdybread/portfolio/assets/48900828/ac812ccf-b96b-4723-a615-8ab3b1b67b58)
+![main2](https://github.com/uralrdybread/portfolio/assets/48900828/f83a1273-b456-4c80-8b2f-d5dc48a287a5)
+![main1](https://github.com/uralrdybread/portfolio/assets/48900828/c3f64787-5ca9-484e-b99b-95cd4fd091d4)
+![hover](https://github.com/uralrdybread/portfolio/assets/48900828/fefddf87-e299-42c2-9806-973e6591df70)
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
